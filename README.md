@@ -9,3 +9,6 @@
 - 🌱 Learning: **JavaScript, Web Development, and GitHub**
 - 🎯 Goal: **Publish my first research paper this year**
 - 📫 How to reach me: [GitHub](https://github.com/Chetan-Kumar-G)
+- ## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-kumar-g21/)
