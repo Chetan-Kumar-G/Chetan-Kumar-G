@@ -162,163 +162,90 @@ Frontend implementation inspired by an e-commerce platform.
 </div>
 
 ---
-
 # 🚀 CURRENT MISSION
 
 <div align="center">
 
 <table>
 <tr>
-<th>Area</th>
-<th>Status</th>
+<td align="center">🌐<br><b>FULL STACK</b><br><sub>Building</sub></td>
+<td align="center">🧠<br><b>DSA</b><br><sub>Learning</sub></td>
+<td align="center">🤖<br><b>AI / ML</b><br><sub>Building</sub></td>
+<td align="center">⚙️<br><b>BACKEND</b><br><sub>Learning</sub></td>
+<td align="center">☁️<br><b>CLOUD</b><br><sub>Exploring</sub></td>
+<td align="center">🌍<br><b>OPEN SOURCE</b><br><sub>Goal</sub></td>
 </tr>
-
-<tr>
-<td>🌐 Full Stack Development</td>
-<td>🔨 Building</td>
-</tr>
-
-<tr>
-<td>🧠 Data Structures & Algorithms</td>
-<td>📚 Learning</td>
-</tr>
-
-<tr>
-<td>🤖 AI / Machine Learning</td>
-<td>🔨 Building</td>
-</tr>
-
-<tr>
-<td>⚙️ Backend Engineering</td>
-<td>📚 Learning</td>
-</tr>
-
-<tr>
-<td>🗄️ Databases</td>
-<td>📚 Learning</td>
-</tr>
-
-<tr>
-<td>☁️ Cloud & DevOps</td>
-<td>🌱 Exploring</td>
-</tr>
-
-<tr>
-<td>🌍 Open Source</td>
-<td>🎯 Goal</td>
-</tr>
-
 </table>
 
 </div>
 
 ---
 
-# ⚙️ HOW I BUILD
+# ⚙️ HOW I WORK
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="14%">
-
+<td align="center">
 <h2>💡</h2>
 <b>IDEA</b>
-
 <br>
-
-Start with a problem.
-
+<sub>Find the problem</sub>
 </td>
 
-<td align="center" width="3%">
+<td align="center">→</td>
 
-→
-
-</td>
-
-<td align="center" width="14%">
-
+<td align="center">
 <h2>🎨</h2>
 <b>DESIGN</b>
-
 <br>
-
-Plan the solution.
-
+<sub>Plan the solution</sub>
 </td>
 
-<td align="center" width="3%">
+<td align="center">→</td>
 
-→
-
-</td>
-
-<td align="center" width="14%">
-
+<td align="center">
 <h2>💻</h2>
 <b>BUILD</b>
-
 <br>
-
-Turn ideas into code.
-
+<sub>Write the code</sub>
 </td>
 
-<td align="center" width="3%">
+<td align="center">→</td>
 
-→
-
-</td>
-
-<td align="center" width="14%">
-
+<td align="center">
 <h2>🧪</h2>
 <b>TEST</b>
-
 <br>
-
-Verify the system.
-
+<sub>Verify everything</sub>
 </td>
 
-<td align="center" width="3%">
+<td align="center">→</td>
 
-→
-
-</td>
-
-<td align="center" width="14%">
-
+<td align="center">
 <h2>🐛</h2>
 <b>DEBUG</b>
-
 <br>
-
-Find what's broken.
-
+<sub>Fix what breaks</sub>
 </td>
 
-<td align="center" width="3%">
+<td align="center">→</td>
 
-→
-
-</td>
-
-<td align="center" width="14%">
-
+<td align="center">
 <h2>🚀</h2>
-<b>IMPROVE</b>
-
+<b>DEPLOY</b>
 <br>
-
-Make it better.
-
+<sub>Ship the product</sub>
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<b>BUILD → TEST → BREAK → DEBUG → IMPROVE → REPEAT</b>
 
 </div>
 
@@ -330,31 +257,31 @@ Make it better.
 
 ### 🌱 FOUNDATIONS
 
-`Python` · `C` · `JavaScript` · `Git` · `DSA`
+Python · C · JavaScript · Git · DSA
 
 ⬇️
 
-### 🏗️ BUILD
+### 🌐 DEVELOPMENT
 
-`Frontend` · `Backend` · `APIs` · `Databases`
+HTML · CSS · React · Backend · APIs · Databases
 
 ⬇️
 
 ### 🤖 INTELLIGENCE
 
-`Machine Learning` · `Data Science` · `AI Applications`
+Machine Learning · Data Science · AI Applications
 
 ⬇️
 
 ### ⚙️ ENGINEERING
 
-`Testing` · `System Design` · `Docker` · `Cloud`
+Testing · System Design · Docker · Cloud
 
 ⬇️
 
 ### 🚀 DESTINATION
 
-**PRODUCTION SOFTWARE**
+<h2>PRODUCTION SOFTWARE</h2>
 
 </div>
 
@@ -378,63 +305,50 @@ Make it better.
 
 # 🎯 WHAT I'M WORKING TOWARDS
 
-<table align="center">
+<div align="center">
 
+<table>
 <tr>
 
 <td align="center">
-
-### 01
-
-**BUILD**
-
+<h3>01</h3>
+<b>BUILD</b>
+<br>
 Real-world applications
-
 </td>
 
 <td align="center">
-
-### 02
-
-**MASTER**
-
+<h3>02</h3>
+<b>MASTER</b>
+<br>
 DSA & fundamentals
-
 </td>
 
 <td align="center">
-
-### 03
-
-**EXPLORE**
-
+<h3>03</h3>
+<b>EXPLORE</b>
+<br>
 AI / ML systems
-
 </td>
 
 <td align="center">
-
-### 04
-
-**CONTRIBUTE**
-
+<h3>04</h3>
+<b>CONTRIBUTE</b>
+<br>
 Open Source
-
 </td>
 
 <td align="center">
-
-### 05
-
-**BECOME**
-
+<h3>05</h3>
+<b>BECOME</b>
+<br>
 Industry ready
-
 </td>
 
 </tr>
-
 </table>
+
+</div>
 
 ---
 
@@ -442,31 +356,31 @@ Industry ready
 
 <div align="center">
 
-### LEARN
+<h3>LEARN</h3>
 
 ↓
 
-### BUILD
+<h3>BUILD</h3>
 
 ↓
 
-### BREAK
+<h3>BREAK</h3>
 
 ↓
 
-### DEBUG
+<h3>DEBUG</h3>
 
 ↓
 
-### UNDERSTAND
+<h3>UNDERSTAND</h3>
 
 ↓
 
-### IMPROVE
+<h3>IMPROVE</h3>
 
 ↓
 
-## REPEAT
+<h2>REPEAT</h2>
 
 </div>
 
@@ -493,3 +407,4 @@ Industry ready
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer"/>
 
 </div>
+
