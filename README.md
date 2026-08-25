@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/GitHub-Chetan--Kumar--G-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/chetan-kumar-g21/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
