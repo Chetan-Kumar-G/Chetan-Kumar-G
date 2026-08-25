@@ -43,19 +43,20 @@ Currently focusing on:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-## 🍽️ FeastV
+<h2>🍽️ FeastV</h2>
 
-### Food Delivery + Seat Booking
+<h3>Food Delivery + Seat Booking</h3>
 
 A web development project combining food ordering with restaurant seat booking.
 
-**Focus**
-
-`Web Development`
-
 <br>
+
+<b>Focus:</b> Web Development
+
+<br><br>
 
 <a href="https://github.com/Chetan-Kumar-G/FeastV">
 <img src="https://img.shields.io/badge/READ%20CHAPTER-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -65,39 +66,41 @@ A web development project combining food ordering with restaurant seat booking.
 
 <td width="50%" valign="top">
 
-## 🧠 Algorithms
+<h2>🧠 Algorithms</h2>
 
-### Design & Analysis of Algorithms
+<h3>Design & Analysis of Algorithms</h3>
 
 Algorithm implementations and problem-solving practice.
 
-**Focus**
-
-`C` · `Algorithms` · `DSA`
-
 <br>
+
+<b>Focus:</b> C · Algorithms · DSA
+
+<br><br>
 
 <a href="https://github.com/Chetan-Kumar-G/Design-Analysis-and-Algorithms">
 <img src="https://img.shields.io/badge/READ%20CHAPTER-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## 🛒 Flipkart
+<h2>🛒 Flipkart</h2>
 
-### E-Commerce Interface
+<h3>E-Commerce Interface</h3>
 
 Frontend project focused on recreating an e-commerce interface.
 
-**Focus**
-
-`HTML` · `CSS`
-
 <br>
+
+<b>Focus:</b> HTML · CSS
+
+<br><br>
 
 <a href="https://github.com/Chetan-Kumar-G/Flipkart">
 <img src="https://img.shields.io/badge/READ%20CHAPTER-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -107,23 +110,24 @@ Frontend project focused on recreating an e-commerce interface.
 
 <td width="50%" valign="top">
 
-## 🛍️ Amazon
+<h2>🛍️ Amazon</h2>
 
-### E-Commerce Interface
+<h3>E-Commerce Interface</h3>
 
 Frontend implementation inspired by an e-commerce platform.
 
-**Focus**
-
-`HTML` · `CSS`
-
 <br>
+
+<b>Focus:</b> HTML · CSS
+
+<br><br>
 
 <a href="https://github.com/Chetan-Kumar-G/Amazon">
 <img src="https://img.shields.io/badge/READ%20CHAPTER-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -163,15 +167,48 @@ Frontend implementation inspired by an e-commerce platform.
 
 <div align="center">
 
-| Area | Status |
-|:---|:---:|
-| 🌐 Full Stack Development | 🔨 Building |
-| 🧠 Data Structures & Algorithms | 📚 Learning |
-| 🤖 AI / Machine Learning | 🔨 Building |
-| ⚙️ Backend Engineering | 📚 Learning |
-| 🗄️ Databases | 📚 Learning |
-| ☁️ Cloud & DevOps | 🌱 Exploring |
-| 🌍 Open Source | 🎯 Goal |
+<table>
+<tr>
+<th>Area</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>🌐 Full Stack Development</td>
+<td>🔨 Building</td>
+</tr>
+
+<tr>
+<td>🧠 Data Structures & Algorithms</td>
+<td>📚 Learning</td>
+</tr>
+
+<tr>
+<td>🤖 AI / Machine Learning</td>
+<td>🔨 Building</td>
+</tr>
+
+<tr>
+<td>⚙️ Backend Engineering</td>
+<td>📚 Learning</td>
+</tr>
+
+<tr>
+<td>🗄️ Databases</td>
+<td>📚 Learning</td>
+</tr>
+
+<tr>
+<td>☁️ Cloud & DevOps</td>
+<td>🌱 Exploring</td>
+</tr>
+
+<tr>
+<td>🌍 Open Source</td>
+<td>🎯 Goal</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -181,102 +218,278 @@ Frontend implementation inspired by an e-commerce platform.
 
 <div align="center">
 
-```text
-       💡 IDEA
-          │
-          ▼
-      🎨 DESIGN
-          │
-          ▼
-       💻 CODE
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
-      🐛 DEBUG
-          │
-          ▼
-      🚀 DEPLOY
-          │
-          ▼
-      📈 IMPROVE
+<table>
+<tr>
+
+<td align="center" width="14%">
+
+<h2>💡</h2>
+<b>IDEA</b>
+
+<br>
+
+Start with a problem.
+
+</td>
+
+<td align="center" width="3%">
+
+→
+
+</td>
+
+<td align="center" width="14%">
+
+<h2>🎨</h2>
+<b>DESIGN</b>
+
+<br>
+
+Plan the solution.
+
+</td>
+
+<td align="center" width="3%">
+
+→
+
+</td>
+
+<td align="center" width="14%">
+
+<h2>💻</h2>
+<b>BUILD</b>
+
+<br>
+
+Turn ideas into code.
+
+</td>
+
+<td align="center" width="3%">
+
+→
+
+</td>
+
+<td align="center" width="14%">
+
+<h2>🧪</h2>
+<b>TEST</b>
+
+<br>
+
+Verify the system.
+
+</td>
+
+<td align="center" width="3%">
+
+→
+
+</td>
+
+<td align="center" width="14%">
+
+<h2>🐛</h2>
+<b>DEBUG</b>
+
+<br>
+
+Find what's broken.
+
+</td>
+
+<td align="center" width="3%">
+
+→
+
+</td>
+
+<td align="center" width="14%">
+
+<h2>🚀</h2>
+<b>IMPROVE</b>
+
+<br>
+
+Make it better.
+
+</td>
+
+</tr>
+</table>
+
 </div>
-🧭 ENGINEERING ROADMAP
+
+---
+
+# 🧭 ENGINEERING ROADMAP
+
 <div align="center">
-                    SOFTWARE ENGINEER
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-       FRONTEND          BACKEND          AI / ML
-          │                │                │
-        React             APIs            Python
-          │                │                │
-          ▼                ▼                ▼
-        UI / UX         Databases         Models
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                           ▼
-                     SYSTEM DESIGN
-                           │
-                           ▼
-                         CLOUD
-                           │
-                           ▼
-                  PRODUCTION SOFTWARE
+
+### 🌱 FOUNDATIONS
+
+`Python` · `C` · `JavaScript` · `Git` · `DSA`
+
+⬇️
+
+### 🏗️ BUILD
+
+`Frontend` · `Backend` · `APIs` · `Databases`
+
+⬇️
+
+### 🤖 INTELLIGENCE
+
+`Machine Learning` · `Data Science` · `AI Applications`
+
+⬇️
+
+### ⚙️ ENGINEERING
+
+`Testing` · `System Design` · `Docker` · `Cloud`
+
+⬇️
+
+### 🚀 DESTINATION
+
+**PRODUCTION SOFTWARE**
+
 </div>
-📊 GITHUB ACTIVITY
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chetan-Kumar-G&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Kumar-G&layout=compact&hide_border=true&theme=github_dark"/>
 
-<br><br>
+---
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Kumar-G&theme=github-dark-blue&hide_border=true"/> </div>
-🎯 WHAT I'M WORKING TOWARDS
-Build production-quality applications
-Become strong in Data Structures & Algorithms
-Build practical AI/ML systems
-Contribute to open source
-Work on real engineering problems
-Become internship and industry ready
-💭 ENGINEERING PHILOSOPHY
+# 📊 GITHUB ACTIVITY
+
 <div align="center">
 
-LEARN
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chetan-Kumar-G&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
 
-↓
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Kumar-G&layout=compact&hide_border=true&theme=github_dark"/>
 
-BUILD
+<br><br>
 
-↓
-
-BREAK
-
-↓
-
-DEBUG
-
-↓
-
-UNDERSTAND
-
-↓
-
-IMPROVE
-
-↓
-
-REPEAT
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Kumar-G&theme=github-dark-blue&hide_border=true"/>
 
 </div>
-🤝 LET'S CONNECT
-<div align="center"> <a href="https://github.com/Chetan-Kumar-G"> <img src="https://img.shields.io/badge/GitHub-Chetan--Kumar--G-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+---
+
+# 🎯 WHAT I'M WORKING TOWARDS
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+### 01
+
+**BUILD**
+
+Real-world applications
+
+</td>
+
+<td align="center">
+
+### 02
+
+**MASTER**
+
+DSA & fundamentals
+
+</td>
+
+<td align="center">
+
+### 03
+
+**EXPLORE**
+
+AI / ML systems
+
+</td>
+
+<td align="center">
+
+### 04
+
+**CONTRIBUTE**
+
+Open Source
+
+</td>
+
+<td align="center">
+
+### 05
+
+**BECOME**
+
+Industry ready
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💭 ENGINEERING PHILOSOPHY
+
+<div align="center">
+
+### LEARN
+
+↓
+
+### BUILD
+
+↓
+
+### BREAK
+
+↓
+
+### DEBUG
+
+↓
+
+### UNDERSTAND
+
+↓
+
+### IMPROVE
+
+↓
+
+## REPEAT
+
+</div>
+
+---
+
+# 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Chetan-Kumar-G">
+<img src="https://img.shields.io/badge/GitHub-Chetan--Kumar--G-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting.;See+you+in+the+next+chapter." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting.;See+you+in+the+next+chapter."/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer"/>
+
+</div>
