@@ -1,93 +1,377 @@
-# Chetan Kumar G
+<div align="center">
 
-### Computer Science Engineering Student · Software Developer · AI/ML
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0d1117,100:161b22&height=230&section=header&text=CHETAN%20KUMAR%20G&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%2F%20ML%20%7C%20FULL%20STACK&descSize=17&descAlignY=62"/>
 
-I build software to solve real problems — from web applications and developer tools to
-data-driven and machine learning systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=%3E+building+real+things;%3E+learning+every+day;%3E+turning+ideas+into+software;%3E+debugging+until+it+works;%3E+becoming+industry+ready"/>
 
-I'm currently focused on becoming a stronger **end-to-end engineer**:
-building, debugging, deploying, and maintaining real software.
+<br>
 
----
+<a href="https://github.com/Chetan-Kumar-G">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 📖 Engineering Portfolio
+<br><br>
 
-> A collection of things I've built, learned, and experimented with.
+<img src="https://komarev.com/ghpvc/?username=Chetan-Kumar-G&style=for-the-badge&color=161b22&label=VISITORS"/>
 
-### 🏗️ 01 — Featured Engineering Projects
+</div>
 
-| Project | What it demonstrates |
-|---|---|
-| 🍽️ [FeastV](https://github.com/Chetan-Kumar-G/FeastV) | Web development · Product thinking |
-| 🛒 [Flipkart](https://github.com/Chetan-Kumar-G/Flipkart) | HTML · Frontend development |
-| 🛍️ [Amazon](https://github.com/Chetan-Kumar-G/Amazon) | HTML · Frontend development |
-| 🧠 [Design & Analysis of Algorithms](https://github.com/Chetan-Kumar-G/Design-Analysis-and-Algorithms) | Algorithms · C · Problem solving |
-
-### 🔬 02 — AI / Machine Learning
-
-| Project | Focus |
-|---|---|
-| 🚧 [Coming Soon](#) | Machine Learning |
-| 🚧 [Coming Soon](#) | Data Science |
-| 🚧 [Coming Soon](#) | AI Application |
-
-### 🌐 03 — Web Development
-
-| Project | Stack |
-|---|---|
-| 🍽️ [FeastV](https://github.com/Chetan-Kumar-G/FeastV) | HTML · Web Development |
-| 🛒 [Flipkart](https://github.com/Chetan-Kumar-G/Flipkart) | HTML |
-| 🛍️ [Amazon](https://github.com/Chetan-Kumar-G/Amazon) | HTML |
-
-### 🧩 04 — Algorithms & Problem Solving
-
-→ [Design & Analysis of Algorithms](https://github.com/Chetan-Kumar-G/Design-Analysis-and-Algorithms)
+<br>
 
 ---
 
-## 🛠️ Technology
+<div align="center">
 
-### Languages
+# `╭─ THE DEVELOPER ─╮`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### Chetan Kumar G
 
-### Development
+**Computer Science Engineering Student**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+I build software, experiment with AI/ML,  
+solve algorithmic problems, and turn ideas into working projects.
 
-> I only list technologies here that I actively use or am currently developing proficiency in.
+<br>
 
----
+`CODE` &nbsp; `BUILD` &nbsp; `DEBUG` &nbsp; `LEARN` &nbsp; `REPEAT`
 
-## 🚀 Currently Building
-
-- 🔨 Building real-world full-stack applications
-- 🤖 Developing practical AI/ML projects
-- 🧠 Strengthening Data Structures & Algorithms
-- 🌐 Improving full-stack development skills
-- 🔧 Learning to build, debug, test and deploy production-style software
+</div>
 
 ---
 
-## 📚 What I'm Learning
+# `╭─ 01 · BOOK ─╮`
+
+> ### 📖 My Engineering Journey
+
+Think of this profile as a book.
+
+Each repository is a **chapter**.
+
+Click a chapter → read the code → see what I built.
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### `01`
+
+## 🏗️ BUILDING
+
+Web Apps  
+AI / ML  
+Backend  
+Developer Tools
+
+</td>
+
+<td align="center" width="33%">
+
+### `02`
+
+## 🧠 LEARNING
+
+DSA  
+System Design  
+Databases  
+Cloud
+
+</td>
+
+<td align="center" width="33%">
+
+### `03`
+
+## 🚀 GOING
+
+Internships  
+Open Source  
+Production Software  
+Real Problems
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `╭─ 02 · PROJECTS ─╮`
+
+<div align="center">
+
+### ⭐ SELECTED WORK
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🍽️ FeastV
+
+### Food Delivery + Seat Booking
+
+A web development project combining food ordering with restaurant seat booking.
+
+**Stack**
+
+`HTML` `CSS` `Web Development`
+
+<br>
+
+<a href="https://github.com/Chetan-Kumar-G/FeastV">
+
+**↗ OPEN CHAPTER**
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 Algorithms
+
+### Design & Analysis of Algorithms
+
+Algorithm implementations and problem-solving work.
+
+**Stack**
+
+`C` `Algorithms` `DSA`
+
+<br>
+
+<a href="https://github.com/Chetan-Kumar-G/Design-Analysis-and-Algorithms">
+
+**↗ OPEN CHAPTER**
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛒 Flipkart
+
+### E-Commerce Interface
+
+Frontend recreation project focused on building an e-commerce interface.
+
+**Stack**
+
+`HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/Chetan-Kumar-G/Flipkart">
+
+**↗ OPEN CHAPTER**
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛍️ Amazon
+
+### E-Commerce Interface
+
+Frontend implementation inspired by an e-commerce platform.
+
+**Stack**
+
+`HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/Chetan-Kumar-G/Amazon">
+
+**↗ OPEN CHAPTER**
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `MORE CHAPTERS ARE BEING WRITTEN...`
+
+`AI/ML` · `FULL STACK` · `BACKEND` · `DATA` · `CLOUD`
+
+</div>
+
+---
+
+# `╭─ 03 · ARSENAL ─╮`
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,c,js,sql" />
+
+### DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+
+### EXPLORING
+
+<img src="https://skillicons.dev/icons?i=aws,mongodb,postgres" />
+
+</div>
+
+---
+
+# `╭─ 04 · CURRENT MISSION ─╮`
 
 ```text
-Data Structures & Algorithms
-        ↓
-Web Development
-        ↓
-Backend & APIs
-        ↓
-Databases
-        ↓
-Machine Learning
-        ↓
-Cloud & Deployment
-        ↓
-Software Engineering
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  MISSION                                             │
+│                                                      │
+│  Become a developer capable of taking an idea        │
+│  from ZERO → PRODUCTION.                             │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  CURRENT OBJECTIVES                                  │
+│                                                      │
+│  [████████░░]  Full Stack Development                │
+│  [███████░░░]  Data Structures & Algorithms          │
+│  [██████░░░░]  AI / Machine Learning                 │
+│  [█████░░░░░]  Backend Engineering                   │
+│  [████░░░░░░]  Databases                             │
+│  [███░░░░░░░]  Cloud & DevOps                        │
+│  [██░░░░░░░░]  Open Source                           │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+╭─ 05 · WORKFLOW ─╮
+<div align="center">
+                 ┌─────────────┐
+                 │    IDEA     │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │   DESIGN    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    CODE     │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    TEST     │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    DEBUG    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │   DEPLOY    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │   IMPROVE   │
+                 └─────────────┘
+</div>
+╭─ 06 · ROADMAP ─╮
+2026
+
+FOUNDATIONS
+     │
+     ├── DSA
+     ├── Python
+     ├── JavaScript
+     └── Git / GitHub
+           │
+           ▼
+BUILD
+     │
+     ├── Frontend
+     ├── Backend
+     ├── Databases
+     └── APIs
+           │
+           ▼
+INTELLIGENCE
+     │
+     ├── Machine Learning
+     ├── Data Science
+     └── AI Applications
+           │
+           ▼
+ENGINEERING
+     │
+     ├── System Design
+     ├── Testing
+     ├── Docker
+     └── Cloud
+           │
+           ▼
+             🚀
+       PRODUCTION SOFTWARE
+╭─ 07 · GITHUB ─╮
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chetan-Kumar-G&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Kumar-G&layout=compact&hide_border=true&theme=github_dark"/>
+
+<br><br>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Kumar-G&theme=github-dark-blue&hide_border=true"/> </div>
+╭─ 08 · PHILOSOPHY ─╮
+<div align="center">
+
+Don't just learn the technology.
+
+Build something with it.
+
+Don't just build it.
+
+Understand how it works.
+
+Don't just make it work.
+
+Make it better.
+
+</div>
+╭─ 09 · CONNECT ─╮
+<div align="center"> <a href="https://github.com/Chetan-Kumar-G"> <img src="https://img.shields.io/badge/GITHUB-Chetan--Kumar--G-ffffff?style=for-the-badge&logo=github&logoColor=black"/> </a>
+
+<br><br>
+
+Open to
+
+Internships · Collaborations · Open Source · Interesting Problems
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting.;See+you+in+the+next+chapter+%F0%9F%93%96"/> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:050505&height=120&section=footer"/> </div> ```
