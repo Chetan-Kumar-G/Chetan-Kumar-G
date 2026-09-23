@@ -1,182 +1,264 @@
-<!-- ═══════════════ DEVELOPER PASSPORT · CHETAN KUMAR G ═══════════════ -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16264D,50:0E1A36,100:0A1128&height=230&section=header&text=CHETAN%20KUMAR%20G&fontSize=56&fontColor=F1D38A&fontAlignY=38&desc=DEVELOPER%20PASSPORT%20%C2%B7%20REPUBLIC%20OF%20CODE&descSize=18&descAlignY=60&descColor=D4A94B&animation=fadeIn" width="100%" alt="Chetan Kumar G — Developer Passport" />
-
-<a href="https://github.com/Chetan-Kumar-G">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D4A94B&center=true&vCenter=true&width=640&lines=Software+Engineer+%7C+Full-Stack+%7C+AI%2FML;CSE+%40+Amrita+Vishwa+Vidyapeetham%2C+Chennai;build+%E2%86%92+test+%E2%86%92+break+%E2%86%92+debug+%E2%86%92+improve+%E2%86%92+repeat;Open+to+SDE+%2F+Full-Stack+%2F+AI-ML+internships" width="100%" alt="Software Engineer | Full-Stack | AI/ML — open to internships" />
-</a>
-
-<a href="https://chetankumarg.tech"><img src="https://img.shields.io/badge/Portfolio-chetankumarg.tech-D4A94B?style=for-the-badge&logo=googlechrome&logoColor=0A1128&labelColor=F1D38A" alt="Portfolio — chetankumarg.tech" /></a>
-<a href="mailto:chetankumarg210307@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0A1128?style=for-the-badge&logo=gmail&logoColor=F1D38A" alt="Email me" /></a>
-<a href="https://www.linkedin.com/in/chetan-kumar-g21/"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=F1D38A" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Status-Open_to_Internships-2EA043?style=for-the-badge&labelColor=0A1128" alt="Open to internships" />
-
-<img src="https://komarev.com/ghpvc/?username=Chetan-Kumar-G&label=PASSPORT%20SCANS&color=D4A94B&style=flat-square" alt="Profile views" />
-
-</div>
-
----
-
-## 🛂 Data Page
-
-<table>
-<tr><td><b>Name</b></td><td>Chetan Kumar G</td></tr>
-<tr><td><b>Profession</b></td><td>Software Engineer · Full-Stack Developer · AI/ML Explorer</td></tr>
-<tr><td><b>Programme</b></td><td>B.Tech, Computer Science &amp; Engineering</td></tr>
-<tr><td><b>Institution</b></td><td>Amrita Vishwa Vidyapeetham, Chennai</td></tr>
-<tr><td><b>Operating system</b></td><td><code>build → test → break → debug → improve → repeat</code></td></tr>
-<tr><td><b>Looking for</b></td><td>SDE / Full-Stack / AI-ML internships where I can own real features</td></tr>
-<tr><td><b>Portfolio</b></td><td><a href="https://chetankumarg.tech">chetankumarg.tech</a></td></tr>
-<tr><td><b>Contact</b></td><td><a href="mailto:chetankumarg210307@gmail.com">chetankumarg210307@gmail.com</a></td></tr>
-</table>
 
 ```text
-P<DEVG<<CHETAN<KUMAR<<<<<<<<<<<<<<<<<<<<<<<<
-CKG2026SDE7DEV<OPEN<TO<INTERNSHIPS<<<<<<<<04
+╔══╦════════════════════════════════════════════════╗
+║░░║                                                ║
+║▓▓║        .:*~*:._.:*~*:._.:*~*:._.:*~*:.         ║
+║░░║                                                ║
+║||║                  .-~~~~~~~~-.                  ║
+║░░║                .'   .----.   '.                ║
+║░░║               /   /  </>  \   \                ║
+║▓▓║               |   |  ~~~~  |   |               ║
+║░░║                \   \ ____ /   /                ║
+║░░║                '.   '----'   .'                ║
+║▓▓║                  '-~~~~~~~~-'                  ║
+║░░║                                                ║
+║||║      T H E    C H R O N I C L E S    O F       ║
+║░░║                                                ║
+║░░║      ▄███▄ ██ ██ █████ █████ ▄███▄ ██  █       ║
+║▓▓║      ██    ██ ██ ██     ██   ██ ██ ███ █       ║
+║░░║      ██    █████ ████   ██   █████ █ ███       ║
+║░░║      ██    ██ ██ ██     ██   ██ ██ █  ██       ║
+║▓▓║      ▀███▀ ██ ██ █████  ██   ██ ██ █   █       ║
+║░░║                                                ║
+║||║     ██ ██ ██ ██ █▄ ▄█ ▄███▄ ████▄    ▄███▄     ║
+║░░║     ████  ██ ██ █▀█▀█ ██ ██ ██ ██    ██        ║
+║░░║     ███   ██ ██ █ ▀ █ █████ ████▀    ██ ▄▄     ║
+║▓▓║     ████  ██ ██ █   █ ██ ██ ██ █     ██  █     ║
+║░░║     ██ ██ ▀███▀ █   █ ██ ██ ██  █    ▀███▀     ║
+║░░║                                                ║
+║▓▓║     ~  Code-Mage of the Southern Realm  ~      ║
+║░░║    Software Eng.  .  Full-Stack  .  AI / ML    ║
+║||║                                                ║
+║░░║           -- Volume I  .  MMXXVI --            ║
+║░░║                                                ║
+║▓▓║        .:*~*:._.:*~*:._.:*~*:._.:*~*:.         ║
+║░░║                                                ║
+╚══╩════════════════════════════════════════════════╝
 ```
 
----
+$$\color{#C9A24A}\mathfrak{The\ Chronicles\ of\ Chetan\ Kumar\ G}$$
 
-## ⭐ Why Hire Me
+*A true account of a young code-mage of the Southern Realm*
 
-> **🚀 I ship end to end.** I take ideas from a blank page to a working product. [FeastV](https://github.com/Chetan-Kumar-G/FeastV) combines food ordering *and* restaurant seat booking in one app.
+**[🏰 Visit the Tower](https://chetankumarg.tech)** &nbsp;·&nbsp; **[🕊️ Send a Raven](mailto:chetankumarg210307@gmail.com)** &nbsp;·&nbsp; **[⚔️ The Guild Hall](https://www.linkedin.com/in/chetan-kumar-g21/)** &nbsp;·&nbsp; **[📚 The Archive](https://github.com/Chetan-Kumar-G?tab=repositories)**
 
-> **🧠 I work across the stack.** C and DSA fundamentals → JavaScript, React and Node.js on the web → Python for AI/ML (RAG pipelines, quantum ML).
+</div>
 
-> **⚡ I deliver under pressure.** I built hackathon solutions for **Smart India Hackathon 2026** (two problem statements) and **Smart Amrita Hackathon 2026**, on real problems like oil spills, artisans' livelihoods and trustworthy AI.
+> [!IMPORTANT]
+> **The mage seeks a guild.** Chetan is open to **Software Engineering, Full-Stack and AI/ML internships**, and would like to own real features from the first sketch to production.
 
-> **🔍 I debug before I guess.** I test, break and fix my own code before anyone else has to.
+<br />
 
 <div align="center">
 
-![SIH 2026](https://img.shields.io/badge/Smart_India_Hackathon-2026-B8322A?style=for-the-badge&labelColor=0A1128)
-![SAH 2026](https://img.shields.io/badge/Smart_Amrita_Hackathon-2026-5B3E8C?style=for-the-badge&labelColor=0A1128)
-![Capstone](https://img.shields.io/badge/Capstone-Quantum_ML-D4A94B?style=for-the-badge&labelColor=0A1128)
+### ❦ &nbsp; C O N T E N T S &nbsp; ❦
+
+| | | |
+|:--|:--|--:|
+| 📜 | [**Prologue**](#prologue) · *in which our hero is introduced* | i |
+| 🧙 | [**Chapter I** · The Character Sheet](#character) | 1 |
+| 🔮 | [**Chapter II** · The Spellbook](#spellbook) | 2 |
+| ⚔️ | [**Chapter III** · The Quest Log](#quests) | 3 |
+| 🗺️ | [**Chapter IV** · The Map of the Realm](#map) | 4 |
+| 🕯️ | [**Chapter V** · The Code of the Mage](#code) | 5 |
+| 🪶 | [**Epilogue** · Summon the Mage](#epilogue) | ∞ |
 
 </div>
 
 ---
 
-## 🛃 Visas · Tech Stack
+<a name="prologue"></a>
 
-<div align="center">
+## 📜 Prologue
 
-**Granted · daily drivers**
-
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,git,github,docker,vscode&perline=11" alt="Python, C, JavaScript, HTML, CSS, React, Node.js, Git, GitHub, Docker, VS Code" />
-
-**Pending · currently exploring**
-
-<img src="https://skillicons.dev/icons?i=aws,mongodb,postgres" alt="AWS, MongoDB, PostgreSQL" />
-
-</div>
+> ### 𝕴𝖓 𝖙𝖍𝖊 𝖘𝖔𝖚𝖙𝖍𝖊𝖗𝖓 𝖗𝖊𝖆𝖑𝖒 𝖔𝖋 𝕮𝖍𝖊𝖓𝖓𝖆𝖎,
+>
+> within the great halls of **Amrita Vishwa Vidyapeetham**, there studies a young code-mage named **Chetan Kumar G**.
+>
+> He first mastered the *Old Tongue* of **C** and the ancient art of **algorithms**. Then he crossed into the *Web Lands*, weaving interfaces from **HTML, CSS and JavaScript** and summoning servers with **Node**.
+>
+> In time he climbed toward the *Peaks of Intelligence*, where machines learn from data and old scriptures answer questions. There he built **RAG systems**, studied **quantum machine learning**, and taught satellites to spot oil on the open sea.
+>
+> His creed has never changed:
+>
+> &nbsp;&nbsp;&nbsp;&nbsp; ***build → test → break → debug → improve → repeat***
+>
+> And now he seeks a guild worthy of his craft.
 
 ---
 
-## 🎫 Boarding Passes · Projects
+<a name="character"></a>
 
-### Shipped
+<details open>
+<summary><h2>🧙 Chapter I · The Character Sheet</h2></summary>
 
-> ### [FeastV](https://github.com/Chetan-Kumar-G/FeastV) &nbsp;`HGR ✈ FST` · hungry → feasted
-> Food delivery + restaurant seat booking, stitched into one seamless web app.
->
-> ![HTML](https://img.shields.io/badge/HTML-0A1128?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-0A1128?style=flat-square&logo=css) ![JS](https://img.shields.io/badge/JavaScript-0A1128?style=flat-square&logo=javascript) ![Shipped](https://img.shields.io/badge/●_SHIPPED-2EA043?style=flat-square)
+```text
+┌────────────────────────────────────────────────────────┐
+│  NAME ........ Chetan Kumar G                          │
+│  CLASS ....... Code-Mage  (Full-Stack Engineer)        │
+│  GUILD ....... Amrita Vishwa Vidyapeetham              │
+│  REALM ....... Chennai, India                          │
+│  LEVEL ....... B.Tech, Computer Science & Engg.        │
+│  ALIGNMENT ... Lawful Builder                          │
+│  QUEST ....... An SDE / Full-Stack / AI-ML             │
+│                internship worthy of the craft          │
+├────────────────────────────────────────────────────────┤
+│  ATTRIBUTES                                            │
+│                                                        │
+│  INT  AI & Machine Learning   ████████████████░░░░     │
+│  DEX  Front-End & UI Craft    ██████████████████░░     │
+│  STR  Back-End & APIs         ██████████████░░░░░░     │
+│  WIS  Algorithms & DSA in C   █████████████████░░░     │
+│  CON  Debugging Stamina       ██████████████████░░     │
+│  CHA  Design & Storytelling   █████████████████░░░     │
+│                                                        │
+│  SPECIAL ABILITY:  build > test > debug > repeat       │
+└────────────────────────────────────────────────────────┘
+```
 
-> ### [Design & Analysis of Algorithms](https://github.com/Chetan-Kumar-G/Design-Analysis-and-Algorithms) &nbsp;`BRT ✈ OPT` · brute force → optimal
-> Algorithm implementations and problem-solving practice in C.
->
-> ![C](https://img.shields.io/badge/C-0A1128?style=flat-square&logo=c) ![DSA](https://img.shields.io/badge/DSA-0A1128?style=flat-square) ![Shipped](https://img.shields.io/badge/●_SHIPPED-2EA043?style=flat-square)
+<sub>*Attributes are the mage's own honest estimate, and they rise with every quest.*</sub>
 
-> ### [Flipkart UI](https://github.com/Chetan-Kumar-G/Flipkart) &nbsp;`FIG ✈ PXL` · mockup → pixel-perfect
-> E-commerce interface recreation: grids, cards and responsive layout.
->
-> ![HTML](https://img.shields.io/badge/HTML-0A1128?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-0A1128?style=flat-square&logo=css) ![Shipped](https://img.shields.io/badge/●_SHIPPED-2EA043?style=flat-square)
-
-> ### [Amazon UI](https://github.com/Chetan-Kumar-G/Amazon) &nbsp;`DOM ✈ CRT` · browse → cart
-> Front-end build inspired by a major e-commerce platform's product UI.
->
-> ![HTML](https://img.shields.io/badge/HTML-0A1128?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-0A1128?style=flat-square&logo=css) ![Shipped](https://img.shields.io/badge/●_SHIPPED-2EA043?style=flat-square)
-
-### In Flight
-
-> ### OceanGuard &nbsp;`SAT ✈ SEA` · satellite → safe seas
-> Oil-spill detection from satellite imagery, correlated with AIS data to flag the responsible vessel.
->
-> ![SIH](https://img.shields.io/badge/Smart_India_Hackathon_2026-0A1128?style=flat-square) ![AI](https://img.shields.io/badge/AI-Disaster_Management-1B6A8A?style=flat-square) ![In flight](https://img.shields.io/badge/✈_IN_FLIGHT-D4A94B?style=flat-square)
-
-> ### Sanatan AI &nbsp;`SLK ✈ ANS` · scripture → answers
-> Evidence-grounded RAG system over the Bhagavad Gita, Yoga Sutras and Upanishads.
->
-> ![SAH](https://img.shields.io/badge/Smart_Amrita_Hackathon_2026-0A1128?style=flat-square) ![RAG](https://img.shields.io/badge/GenAI-RAG-5B3E8C?style=flat-square) ![In flight](https://img.shields.io/badge/✈_IN_FLIGHT-D4A94B?style=flat-square)
-
-> ### Quantum Credit Risk &nbsp;`QBT ✈ RSK` · qubits → risk score
-> Hybrid quantum-classical ML benchmark for credit risk on the UCI German Credit dataset.
->
-> ![Capstone](https://img.shields.io/badge/Capstone-0A1128?style=flat-square) ![QML](https://img.shields.io/badge/Quantum-ML-7A5A12?style=flat-square) ![In flight](https://img.shields.io/badge/✈_IN_FLIGHT-D4A94B?style=flat-square)
-
-> ### Karigar &nbsp;`ART ✈ MKT` · artisan → market
-> AI-driven market linkage and smart cataloguing app for India's artisans.
->
-> ![SIH](https://img.shields.io/badge/Smart_India_Hackathon_2026-0A1128?style=flat-square) ![AI](https://img.shields.io/badge/AI-Heritage_%26_Culture-3D6B35?style=flat-square) ![In flight](https://img.shields.io/badge/✈_IN_FLIGHT-D4A94B?style=flat-square)
+</details>
 
 ---
 
-## ✈️ Flight Log · Roadmap
+<a name="spellbook"></a>
+
+<details open>
+<summary><h2>🔮 Chapter II · The Spellbook</h2></summary>
+
+*Incantations mastered, and scrolls still being deciphered.*
+
+| Rune | Spell | Tongue of Power | School of Magic |
+|:--:|:--|:--|:--|
+| 🐍 | *Serpent's Tongue* | **Python** | Scripting · Machine Learning · Automation |
+| 📜 | *The Living Script* | **JavaScript** | The Web's own magic |
+| 🗿 | *The Old Tongue* | **C** | Algorithms · Data Structures · Systems |
+| 🧵 | *Weaving of Forms* | **HTML & CSS** | Layout · Responsive UI · Craft |
+| ⚛️ | *Atom Binding* | **React** | Components · State · SPAs |
+| 🔥 | *Server Summoning* | **Node.js** | REST APIs · Back-end |
+| 🌿 | *Branches of Time* | **Git & GitHub** | Version control · Collaboration |
+| 🐳 | *Vessel Binding* | **Docker** | Containers · Shipping |
+| 👁️ | *Oracle's Sight* | **AI / ML · RAG** | Models · Retrieval · Quantum ML |
+
+> [!NOTE]
+> **Scrolls still being deciphered:** ☁️ *Cloud Walking* (**AWS**) · 🍃 *Leaf Archives* (**MongoDB**) · 🐘 *Elephant Tomes* (**PostgreSQL**)
+
+</details>
+
+---
+
+<a name="quests"></a>
+
+<details open>
+<summary><h2>⚔️ Chapter III · The Quest Log</h2></summary>
+
+| | Quest | The Legend | The Deed | Status |
+|:--:|:--|:--|:--|:--:|
+| **I** | [**FeastV**](https://github.com/Chetan-Kumar-G/FeastV) | *The Feast of Many Tables* | Food delivery and restaurant seat booking, woven into one web app | ✅ Complete |
+| **II** | [**Algorithms in C**](https://github.com/Chetan-Kumar-G/Design-Analysis-and-Algorithms) | *Trials of the Old Tongue* | Design & Analysis of Algorithms: implementations and problem-solving in C | ✅ Complete |
+| **III** | [**Flipkart UI**](https://github.com/Chetan-Kumar-G/Flipkart) | *The Merchant's Mirror* | An e-commerce interface recreated: grids, cards and responsive layout | ✅ Complete |
+| **IV** | [**Amazon UI**](https://github.com/Chetan-Kumar-G/Amazon) | *The Endless Bazaar* | A front-end build inspired by a great e-commerce platform's product pages | ✅ Complete |
+| **V** | **OceanGuard** | *Guardians of the Tide* | Oil-spill detection from satellite imagery, cross-checked with AIS ship data to find the vessel responsible · *Smart India Hackathon 2026* | ⏳ Underway |
+| **VI** | **Sanatan AI** | *The Oracle of Scriptures* | An evidence-grounded RAG system answering questions from the Gita, Yoga Sutras and Upanishads · *Smart Amrita Hackathon 2026* | ⏳ Underway |
+| **VII** | **Quantum Credit Risk** | *The Qubit Ledger* | A hybrid quantum-classical ML benchmark for credit risk on the UCI German Credit dataset · *Capstone* | ⏳ Underway |
+| **VIII** | **Karigar** | *The Artisans' Road* | AI-driven market linkage and smart cataloguing for India's artisans · *Smart India Hackathon 2026* | ⏳ Underway |
+
+</details>
+
+---
+
+<a name="map"></a>
+
+<details>
+<summary><h2>🗺️ Chapter IV · The Map of the Realm &nbsp;<sub><i>(click to unfold)</i></sub></h2></summary>
+
+```text
+  ~    ~     ~    ~     ~    ~     ~    ~     ~    ~      N
+     ~    ~    ___________________________    ~      ~  W-+-E
+  ~     ___.--'     /\      /\     /\     '--.___   ~     S
+     .-'      /\   /  \    /  \   /  \  /\       '-.     ~
+  ~ /        /  \_/    \__/    \_/    \/  \         \       ~
+   |            PEAKS  OF  INTELLIGENCE              |  ~
+ ~ |          AI . ML . RAG . QML                    |       ~
+   |                  . . . (*) <-- YOU ARE HERE     |   ~
+  /     VALE OF       .         :                    \
+ |    DEVELOPMENT   .             :          |>      |  ~
+ |    full-stack  (x)               :       [##]     |
+ |    web       .      ~~~ river ~~~ :   CITADEL OF   |   ~
+  \   ^  ^     .                         ENGINEERING  /
+ ~ |  ^ ^ ^   .                           :     |>   |    ~
+   |  ^ ^ (x) SHIRE OF                     :  [####] |
+ ~  \       FOUNDATIONS              KINGDOM OF     /    ~
+     \      C . DSA                  PRODUCTION   .'
+  ~   '-.__                               ___.--'   ~     ~
+     ~     '--.______________________.--''     ~      ~
+  ~     ~     ~     ~     ~     ~     ~     ~     ~     ~
+
+   (x) lands conquered    (*) you are here    : the road ahead
+
+```
+
+*The same road, as the royal cartographer drew it:*
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0A1128','primaryTextColor':'#F1D38A','primaryBorderColor':'#D4A94B','lineColor':'#D4A94B','fontSize':'15px'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#EBD9AE','primaryTextColor':'#2B1B10','primaryBorderColor':'#8A6A26','lineColor':'#7A1F1F','fontFamily':'Georgia, serif'}}}%%
 flowchart LR
-    FND["🛫 FND<br/>Foundations<br/>C · DSA"] ==> DEV["DEV<br/>Development<br/>Full-stack web"]
-    DEV ==> AIM["✈️ AIM · NOW BOARDING<br/>Intelligence<br/>AI/ML · RAG · QML"]
-    AIM -.-> ENG["ENG<br/>Engineering<br/>Systems · Testing · DevOps"]
-    ENG -.-> PRD["🛬 PRD<br/>Production<br/>Software at scale"]
-
-    classDef done fill:#D4A94B,stroke:#9C7A2E,color:#0A1128
-    classDef now fill:#0A1128,stroke:#F1D38A,stroke-width:3px,color:#F1D38A
-    classDef next fill:#16264D,stroke:#6F7FA3,color:#AEB8D0,stroke-dasharray:5 5
-    class FND,DEV done
-    class AIM now
-    class ENG,PRD next
+    A["🏡 Shire of Foundations<br/><i>C · DSA</i>"] ==> B["🌲 Vale of Development<br/><i>full-stack web</i>"]
+    B ==> C["⛰️ Peaks of Intelligence<br/><b>YOU ARE HERE</b><br/><i>AI/ML · RAG · QML</i>"]
+    C -.-> D["🏰 Citadel of Engineering<br/><i>systems · testing · DevOps</i>"]
+    D -.-> E["👑 Kingdom of Production<br/><i>software at scale</i>"]
+    classDef done fill:#D9BF8A,stroke:#7A1F1F,color:#2B1B10
+    classDef now fill:#7A1F1F,stroke:#C9A24A,stroke-width:3px,color:#F3DA91
+    classDef next fill:#EBD9AE,stroke:#8A6A26,color:#4A2F1A,stroke-dasharray:5 5
+    class A,B done
+    class C now
+    class D,E next
 ```
 
-### Standard Operating Procedure
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0A1128','primaryTextColor':'#F1D38A','primaryBorderColor':'#D4A94B','lineColor':'#D4A94B'}}}%%
-flowchart LR
-    B([Build]) --> T([Test]) --> X([Break]) --> D([Debug]) --> I([Improve]) --> R([Repeat])
-    R -. loop .-> B
-```
+</details>
 
 ---
 
-## 🧾 Customs Declaration · Live Stats
+<a name="code"></a>
 
-<div align="center">
+<details open>
+<summary><h2>🕯️ Chapter V · The Code of the Mage</h2></summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chetan-Kumar-G&show_icons=true&include_all_commits=true&bg_color=0A1128&title_color=F1D38A&text_color=F4ECD8&icon_color=D4A94B&border_color=D4A94B&border_radius=12&custom_title=Declared%20Cargo" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Kumar-G&layout=compact&langs_count=8&bg_color=0A1128&title_color=F1D38A&text_color=F4ECD8&border_color=D4A94B&border_radius=12&custom_title=Languages%20Carried" width="49%" alt="Top languages" />
+> **I.** &nbsp; Understand the problem before summoning a single line of code.<br/>
+> **II.** &nbsp; Build it, then try hard to break it.<br/>
+> **III.** &nbsp; Debug with evidence, never with guesses.<br/>
+> **IV.** &nbsp; Leave every codebase clearer than you found it.<br/>
+> **V.** &nbsp; Ship, learn, and begin again.
 
-<img src="https://streak-stats.demolab.com?user=Chetan-Kumar-G&background=0A1128&border=D4A94B&ring=D4A94B&fire=F1D38A&currStreakNum=F4ECD8&sideNums=F4ECD8&currStreakLabel=F1D38A&sideLabels=F1D38A&dates=8B97B5&border_radius=12" width="100%" alt="Contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan-Kumar-G&bg_color=0A1128&color=F1D38A&line=D4A94B&point=F4ECD8&area=true&area_color=D4A94B&hide_border=true&radius=12&custom_title=Flight%20Hours" width="100%" alt="Contribution activity graph" />
-
-</div>
+</details>
 
 ---
 
+<a name="epilogue"></a>
+
+## 🪶 Epilogue · Summon the Mage
+
+> *To whichever guild is reading these pages,*
+>
+> If your team has need of a builder who is curious, careful and hungry to learn, I would be glad to join your quest.
+>
+> | | |
+> |:--|:--|
+> | 🕊️ **Send a raven** | [chetankumarg210307@gmail.com](mailto:chetankumarg210307@gmail.com) |
+> | 🏰 **Visit the tower** | [chetankumarg.tech](https://chetankumarg.tech) |
+> | ⚔️ **The guild hall** | [linkedin.com/in/chetan-kumar-g21](https://www.linkedin.com/in/chetan-kumar-g21/) |
+> | 📚 **The archive** | [github.com/Chetan-Kumar-G](https://github.com/Chetan-Kumar-G) |
+>
+> *Sealed by my hand,*<br/>
+> **C. K. G.**
+
 <div align="center">
 
-### 🛬 Arrivals
-
-*If found, please return this passport to the nearest **engineering team**.*
-
-<a href="https://chetankumarg.tech"><img src="https://img.shields.io/badge/Portfolio-chetankumarg.tech-D4A94B?style=for-the-badge&logo=googlechrome&logoColor=0A1128&labelColor=F1D38A" alt="Portfolio — chetankumarg.tech" /></a>
-<a href="mailto:chetankumarg210307@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0A1128?style=for-the-badge&logo=gmail&logoColor=F1D38A" alt="Email me" /></a>
-<a href="https://www.linkedin.com/in/chetan-kumar-g21/"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=F1D38A" alt="LinkedIn" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0E1A36,100:16264D&height=120&section=footer" width="100%" alt="" />
+```text
+      .:*~*:._.:*~*:._.  T H E   E N D  ._.:*~*:._.:*~*:.
+              ...of Volume I. Volume II is being written.
+```
 
 </div>
